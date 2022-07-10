@@ -1,0 +1,10 @@
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\bin\Debug\netcoreapp3.1\GDSignals.deps.json
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\bin\Debug\netcoreapp3.1\GDSignals.dll
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\bin\Debug\netcoreapp3.1\GDSignals.pdb
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.csproj.AssemblyReference.cache
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.AssemblyInfo.cs
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.dll
+C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\obj\Debug\netcoreapp3.1\GDSignals.pdb

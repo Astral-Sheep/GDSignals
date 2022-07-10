@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>GDSignals</AssemblyName>
+    <RootNamespace>Com.Surbon.GDSignals</RootNamespace>
+    <ApplicationIcon />
+    <Win32Resource />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\thoma\Documents\tools\Signals\vsproject\GDSignals\GDSignals.xml</DocumentationFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <GenerateSerializationAssemblies></GenerateSerializationAssemblies>
+  </PropertyGroup>
+
+</Project>
